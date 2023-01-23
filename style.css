@@ -1,0 +1,64 @@
+body {
+    background-color: #ddd;
+}
+
+* {
+    border-radius: 10px;
+}
+
+.div-1 {
+    background-color: #2e627c;
+    height: 600px;
+    width: 800px;
+    border: 5px solid #1F3946;
+    margin: 0px auto;
+    /*üstten ve alttan sıfır, sağdan ve soldan otomatik yarlama yaptı, kutu genişliğine, width değerine göre */
+}
+
+.div-2 {
+    background-color: yellow;
+    height: 580px;
+    width: 780px;
+    margin: 5px auto;
+    border: 5px solid #1F3946;
+}
+
+.div-3 {
+    background-color: rgb(40, 209, 17);
+    height: 560px;
+    width: 760px;
+    margin: 5px auto;
+    border: 5px solid #1F3946;
+}
+
+.div-4 {
+    background-color: rgb(219, 36, 12);
+    height: 540px;
+    width: 740px;
+    margin: 5px auto;
+    border: 5px solid #1F3946;
+}
+
+.div-5 {
+    background-color: rgb(17, 209, 193);
+    height: 520px;
+    width: 720px;
+    margin: 5px auto;
+    border: 5px solid #1F3946;
+}
+
+.div-6 {
+    background-color: rgb(193, 224, 13);
+    height: 500px;
+    width: 700px;
+    margin: 5px auto;
+    border: 5px solid #1F3946;
+}
+
+.div-7 {
+    background-color: rgb(248, 248, 248);
+    height: 480px;
+    width: 680px;
+    margin: 5px auto;
+    border: 5px solid #1F3946;
+}
